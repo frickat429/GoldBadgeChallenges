@@ -16,3 +16,4 @@
 /Users/austinfrick/challenge_3/badges_console/obj/Debug/net8.0/badges_console.pdb
 /Users/austinfrick/challenge_3/badges_console/obj/Debug/net8.0/badges_console.genruntimeconfig.cache
 /Users/austinfrick/challenge_3/badges_console/obj/Debug/net8.0/ref/badges_console.dll
+/Users/austinfrick/challenge_3/badges_console/obj/Debug/net8.0/badges_console.sourcelink.json

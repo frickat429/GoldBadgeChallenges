@@ -9,3 +9,4 @@
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/refint/badges.dll
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/badges.pdb
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/ref/badges.dll
+/Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/badges.sourcelink.json
