@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThZzQFdxPk6O2kFWq61NARaFLiqahvfv9vgclqwS9aGMwmZhQ/fldOrkLr/NlPZbeFQcBqqH2X9cuHBqs/QGmw==",
+  "dgSpecHash": "ekebrsLF8aY6vOUr2dc3noUsA2pNiPgkDGHlT3N9fntcahD1nDidJwOPtQWfN+lZTjsGMjwCQsHLRAE+mOvKoQ==",
   "success": true,
-  "projectFilePath": "/Users/austinfrick/challenge_3/badges_repo/badges.csproj",
+  "projectFilePath": "/Users/austinfrick/challenge_3_badges/badges_repo/badges.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

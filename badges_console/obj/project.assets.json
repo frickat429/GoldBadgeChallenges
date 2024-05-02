@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/austinfrick/challenge_3/badges_console/badges_console.csproj",
+      "projectUniqueName": "/Users/austinfrick/challenge_3_badges/badges_console/badges_console.csproj",
       "projectName": "badges_console",
-      "projectPath": "/Users/austinfrick/challenge_3/badges_console/badges_console.csproj",
+      "projectPath": "/Users/austinfrick/challenge_3_badges/badges_console/badges_console.csproj",
       "packagesPath": "/Users/austinfrick/.nuget/packages/",
-      "outputPath": "/Users/austinfrick/challenge_3/badges_console/obj/",
+      "outputPath": "/Users/austinfrick/challenge_3_badges/badges_console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/austinfrick/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/austinfrick/challenge_3/badges_repo/badges.csproj": {
-              "projectPath": "/Users/austinfrick/challenge_3/badges_repo/badges.csproj"
+            "/Users/austinfrick/challenge_3_badges/badges_repo/badges.csproj": {
+              "projectPath": "/Users/austinfrick/challenge_3_badges/badges_repo/badges.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/badges.pdb
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/ref/badges.dll
 /Users/austinfrick/challenge_3/badges_repo/obj/Debug/net8.0/badges.sourcelink.json
+/Users/austinfrick/challenge_3_badges/badges_repo/bin/Debug/net8.0/badges.deps.json
+/Users/austinfrick/challenge_3_badges/badges_repo/bin/Debug/net8.0/badges.dll
+/Users/austinfrick/challenge_3_badges/badges_repo/bin/Debug/net8.0/badges.pdb
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.AssemblyInfoInputs.cache
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.AssemblyInfo.cs
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.csproj.CoreCompileInputs.cache
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.sourcelink.json
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.dll
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/refint/badges.dll
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/badges.pdb
+/Users/austinfrick/challenge_3_badges/badges_repo/obj/Debug/net8.0/ref/badges.dll
